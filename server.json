@@ -23,6 +23,38 @@
       "price": "25.90",
       "available": true,
       "image": "https://storage.googleapis.com/golden-wind/bootcamp-gostack/desafio-food/food3.png"
+    },
+    {
+      "id": 4,
+      "name": "Natural",
+      "description": "Macarrão sem tempero e sem acompanhamento.",
+      "price": "47.99",
+      "available": false,
+      "image": "https://storage.googleapis.com/golden-wind/bootcamp-gostack/desafio-food/food3.png"
+    },
+    {
+      "id": 5,
+      "image": "https://storage.googleapis.com/golden-wind/bootcamp-gostack/desafio-food/food3.png",
+      "name": "Macarrão com Almôndegas",
+      "price": "39,98",
+      "description": "Almondeguitas",
+      "available": false
+    },
+    {
+      "id": 7,
+      "name": "Moda Italiana",
+      "price": "45,90",
+      "description": "Pratin",
+      "image": "https://storage.googleapis.com/golden-wind/bootcamp-gostack/desafio-food/food2.png",
+      "available": true
+    },
+    {
+      "id": 10,
+      "image": "https://storage.googleapis.com/golden-wind/bootcamp-gostack/desafio-food/food2.png",
+      "name": "Moda Italiana",
+      "price": "46,90",
+      "description": "Pratin",
+      "available": true
     }
   ]
 }
